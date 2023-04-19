@@ -38,9 +38,7 @@
 
 <html>
   <h1>Hello!</h1>
-  <h2>Welcome to DevOps projects</h2>
- <h3> Never Give up! <h3>
- <h3> One last Push! <h3>
+  <h2>Welcome to DevOps project</h2>
  
 </html>
 
