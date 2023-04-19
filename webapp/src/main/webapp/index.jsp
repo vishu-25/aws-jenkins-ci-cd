@@ -39,6 +39,7 @@
 <html>
   <h1>Hello!</h1>
   <h2>Welcome to DevOps project</h2>
+ <h2> Welcome to MUJ </h2>
  
 </html>
 
